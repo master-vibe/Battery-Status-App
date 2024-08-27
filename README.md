@@ -22,4 +22,4 @@ The Battery Status app is a Flutter-based application that allows users to custo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/battery-status-app.git
+   git clone https://github.com/master-vibe/Battery-Status-App.git
