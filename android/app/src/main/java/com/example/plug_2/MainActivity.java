@@ -124,6 +124,7 @@ public class MainActivity extends FlutterActivity {
                 // Iterate through potential Oppo components
                 String[] oppoComponents = {
                         "com.coloros.safecenter/com.coloros.safecenter.permission.startup.StartupAppListActivity",
+                        "com.oppo.safe/com.oppo.safe.permission.startup.StartupAppListActivity",
                         "com.coloros.safecenter/com.coloros.safecenter.startupapp.StartupAppListActivity",
                         "com.coloros.safecenter/com.coloros.safecenter.permission.startup.FakeActivity",
                         "com.coloros.safecenter/com.coloros.safecenter.permission.startupapp.StartupAppListActivity",
