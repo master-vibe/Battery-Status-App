@@ -9,7 +9,7 @@ The Battery Status app is a Flutter-based application that allows users to custo
 
 - **Custom Charging Sounds**: Set your favorite sounds to play when plugging in or unplugging your device.
 - **User-Friendly Interface**: Simple and intuitive design using Flutter.
-- **Cross-Platform**: Works on both Android and iOS devices.
+- **Platform**: Works on all Android Devices.
 - **Efficient Broadcast Handling**: Kotlin handles the broadcast receivers for battery status changes, ensuring smooth performance.
 
 ## Tech Stack
